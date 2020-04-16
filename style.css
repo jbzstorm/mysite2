@@ -1,0 +1,15 @@
+body {
+    background-attachment: fixed;
+    background-color: papayawhip;
+    background-image:url(nba.jpg);
+    background-repeat: repeat;
+    background-size: cover;
+}
+
+img {
+    width:400px;
+}
+
+h1 {
+    color:red;
+}
