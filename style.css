@@ -1,15 +1,38 @@
 body {
-    background-attachment: fixed;
-    background-color: papayawhip;
-    background-image:url(nba.jpg);
+    background-color: #ebd0a4;
+    /* background-attachment: scroll;
+    background-image:url(kobe.jpg);
     background-repeat: repeat;
     background-size: cover;
+    background-size: 700px; */
 }
 
 img {
     width:400px;
+    /* background-color: white; */
 }
 
 h1 {
-    color:red;
+    color:#213bcb;
+    font-size: 42px;
+    /* background-color: white; */
 }
+
+h2 {
+    color: grey;
+    font-size: 25px;
+    font-style: italic;
+    /* background-color: white; */
+}
+
+h3 {
+    color: indigo;
+    font-size: 35px;
+    /* background-color: white; */
+}
+
+p {
+    font-size: 20px;
+    /* background-color:white; */
+}
+
